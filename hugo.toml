@@ -12,7 +12,7 @@ ShowShareButtons = false
 ShowPostNavLinks = true
 
 [params.homeInfoParams]
-Title = ">_"
+Title = "$"
 Content = "Backend, DevOps, иногда frontend. Люблю разбираться как всё устроено."
 
 [[params.socialIcons]]
