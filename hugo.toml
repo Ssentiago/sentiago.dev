@@ -10,6 +10,7 @@ defaultTheme = "dark"
 ShowReadingTime = true
 ShowShareButtons = false
 ShowPostNavLinks = true
+mainsections = []
 
 [params.homeInfoParams]
 Title = "$"
