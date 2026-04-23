@@ -13,7 +13,7 @@ ShowPostNavLinks = true
 
 [params.homeInfoParams]
 Title = "$"
-Content = "Backend, DevOps, иногда frontend. Люблю разбираться как всё устроено."
+Content = "Backend · DevOps · Security · Frontend. Люблю разбираться как всё устроено."
 
 [[params.socialIcons]]
 name = "github"
