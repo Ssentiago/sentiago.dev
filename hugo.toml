@@ -1,6 +1,6 @@
 baseURL = "https://sentiago.dev/"
 languageCode = "ru"
-title = "Arseny"
+title = "Sentiago"
 theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
