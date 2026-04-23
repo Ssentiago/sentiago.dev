@@ -12,7 +12,7 @@ ShowShareButtons = false
 ShowPostNavLinks = true
 
 [params.homeInfoParams]
-Title = "Привет, я Ssentiago"
+Title = "Привет, я Sentiago"
 Content = "Hello"
 
 [[params.socialIcons]]
