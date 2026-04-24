@@ -26,16 +26,16 @@ url = "https://t.me/Ssentiago"
 
 [menu]
 [[menu.main]]
+name = "Обо мне"
+url = "/about/"
+weight = 1
+[[menu.main]]
 name = "Блог"
 url = "/posts/"
-weight = 1
+weight = 2
 [[menu.main]]
 name = "Проекты"
 url = "/projects/"
-weight = 2
-[[menu.main]]
-name = "Обо мне"
-url = "/about/"
 weight = 3
 [[menu.main]]
 name = "CTF"
